@@ -1,0 +1,16 @@
+Class 
+we can created nested classes also we can create class under class					
+
+Real world Example
+ATM machine is class and 
+
+Instance: object both are same. But calling object as instance in programming.
+
+
+Using static keyword in method or class it cannot access in child class
+
+
+nextDouble in random generate float values
+
+Encapsulation utube link
+https://youtu.be/-BEG5is3COI

@@ -1,0 +1,12 @@
+################# BookStore using databse first approach ###################
+CRUD operation for database
+https://www.c-sharpcorner.com/article/crud-operation-with-asp-net-core-mvc-using-visual-studio-code-and-ado-net/
+
+Bookstore link
+https://xd.adobe.com/view/d096df37-ca37-4026-553f-8cfa6bec09ec-a6a7/grid/
+
+jwt token introduction
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJVc2VyIiwiRW1haWwiOiJzaHdldGEkNDVAZ21haWwuY29tIiwiSWQiOiIzIiwiZXhwIjoxNjUyOTczNDE1fQ.mipv6QXamWo1FxoVUe3_ZlxcVpjL4wV_9fTg6W6hIdg
+
+jwt token decoded
+https://jwt.io/
