@@ -1,0 +1,4 @@
+﻿2022-09-01 08:22:31.8778 DEBUG The debugging
+2022-09-01 08:22:31.8986 INFO Addition method is passed 5
+2022-09-01 08:23:11.5969 ERROR a and b values are zero
+2022-09-01 08:23:11.6134 WARN a and b values should not be equal to zero
